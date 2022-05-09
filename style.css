@@ -1,72 +1,102 @@
-body{
+body {
     margin: 0;
     padding-left: 5px;
 }
 
-.top-image{
+.top-image {
     background-image: url('img/pattern.png');
-    background-color: rgb(90, 170, 197);
+    background-color: rgb(28, 166, 212);
     width: 100%;
+    height: 150px
 }
 
-#name-header{
-    padding-left: 10px;
-    padding-top: 110px;
+#name-header {
+    padding-left: 5px;
+    padding-top: 90px;
     height: 50px;
 }
 
-.sotto-titolo{
-    padding-left: 10px;
-}
-
-h1{
+h1 {
     font-size: 75px;
     margin: 0;
     padding: 5px;
 }
 
-p{
+p {
     margin: 0;
 }
 
-.booleaner{
+.written-by {
+    color: grey;
+}
+
+.booleaner {
     color: rgb(68, 160, 190);
 }
 
-
-
-.img-1{
+.img-1 {
     padding-top: 20px;
     width: 750px;
     height: 500px;
 }
 
-figure{
+figure {
     margin: 0;
 }
 
-.bkg-color{
+.bkg-color {
     background-color: yellow;
 }
 
-.description{
+.description {
     margin-top: 50px;
     margin-bottom: 30px;
 }
 
-th{
+th {
+    color: white;
     text-align: left;
     width: 700px;
-    padding: 0;
     background-color: rgb(24, 131, 173);
 }
 
-.table-body{
+
+table {
+    border-collapse: collapse;
+}
+
+.table-body {
     height: 60px;
     background-color: rgb(28, 202, 202);
 }
 
-.middle-table{
+.middle-table {
     height: 60px;
 }
 
+.info-utili {
+    padding-bottom: 10px;
+    color: grey;
+}
+
+.interessanti {
+    margin: 0;
+    height: 220px;
+    background-image: url('img/monitor.jpg');
+    background-repeat: no-repeat;
+}
+
+.interessanti-2 {
+    margin: 0;
+    height: 220px;
+    background-image: url('img/graph.jpg');
+    background-repeat: no-repeat;
+    margin-bottom: 35px;
+}
+
+.title-info {
+    padding-left: 15px;
+    padding-top: 8px;
+    font-size: larger;
+    color: white;
+}
