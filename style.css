@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+}
+
+.top-image{
+    background-image: url('img/pattern.png');
+    background-color: rgb(90, 170, 197);
+    width: 100%;
+}
+
+#name-header{
+    padding-left: 10px;
+    padding-top: 110px;
+    height: 50px;
+}
+
+#sotto-titolo{
+    padding-left: 10px;
+}
+
+h1{
+    font-size: 75px;
+    margin: 0;
+    padding: 5px;
+}
+
+p{
+    margin: 0;
+}
+
+span{
+    color: rgb(68, 160, 190);
+}
