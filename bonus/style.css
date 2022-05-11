@@ -1,0 +1,123 @@
+body {
+    margin: 0;
+}
+
+.top-image {
+    background-image: url('img/pattern.png');
+    background-color: rgb(28, 166, 212);
+    width: 100%;
+    height: 150px
+}
+
+#name-header {
+    margin-top: 50px;
+    margin-left: 20%;
+    height: 50px;
+}
+
+.container {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+p {
+    margin: 0;
+}
+
+.written-by {
+    color: grey;
+}
+
+.booleaner {
+    color: rgb(68, 160, 190);
+}
+
+.img-1 {
+    padding-top: 20px;
+    width: 48%;
+    height: 500px;
+}
+
+figure {
+    margin: 0;
+}
+
+.bkg-color {
+    background-color: yellow;
+}
+
+.description {
+    text-align: justify;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+th {
+    color: white;
+    text-align: left;
+    width: 700px;
+    background-color: rgb(24, 131, 173);
+}
+
+
+table {
+    border-collapse: collapse;
+}
+
+.table-body {
+    height: 60px;
+    background-color: rgb(28, 202, 202);
+}
+
+.middle-table {
+    height: 60px;
+}
+
+.prima-colonna,
+.seconda-colonna {
+    width: 25%;
+}
+
+.info-utili {
+    padding-bottom: 10px;
+    color: grey;
+}
+
+.interessanti {
+    margin: 0;
+    height: 220px;
+    background-image: url('img/monitor.jpg');
+    background-repeat: no-repeat;
+}
+
+.interessanti-2 {
+    margin: 0;
+    height: 220px;
+    background-image: url('img/graph.jpg');
+    background-repeat: no-repeat;
+    margin-bottom: 35px;
+}
+
+.title-info {
+    padding-left: 15px;
+    padding-top: 8px;
+    font-size: larger;
+    color: white;
+}
+
+footer {
+    margin-left: 20%;
+}
+
+ul {
+    list-style-position: inside;
+    padding-left: 0;
+}
+
+.w3s{
+    display: inline;
+}
